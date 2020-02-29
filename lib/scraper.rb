@@ -21,8 +21,8 @@ post.css("p").text
   #end 
   
   binding.pry
-  
-  
+end 
+
   end
 
   doc.css(".post").first 
