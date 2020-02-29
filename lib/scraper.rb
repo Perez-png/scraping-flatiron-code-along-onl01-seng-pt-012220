@@ -20,6 +20,7 @@ post.css(".date").text
 post.css("p").text
   end 
   
+  binding.pry
   
   
   end
