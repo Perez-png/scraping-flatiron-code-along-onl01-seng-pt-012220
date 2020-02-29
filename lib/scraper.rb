@@ -27,6 +27,10 @@ end
 doc.css(".post").first.css(".date").text
 end
 
+doc.css(".post").first.css("p").text
+end
+
+
 
 end
 
