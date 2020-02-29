@@ -16,7 +16,10 @@ class Scraper
   
   end
 
+  doc.css(".post").first 
   
+end
+
 end
 
  Scraper.new.get_page
