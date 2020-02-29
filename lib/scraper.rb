@@ -21,7 +21,9 @@ class Scraper
   end
 
 doc.css(".post").first.css("h
-2")
+2").text 
+end
+
 
 end
 
