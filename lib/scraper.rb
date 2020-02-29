@@ -24,7 +24,7 @@ doc.css(".post").first.css("h
 2").text 
 end
 
-
+doc.css(".post").first.css(".date").text
 end
 
 
