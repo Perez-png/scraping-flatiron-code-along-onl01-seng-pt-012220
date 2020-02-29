@@ -12,6 +12,11 @@ class Scraper
        binding.pry
   end
   
+  doc.css(".post")
+  
+  end
+
+  
 end
 
  Scraper.new.get_page
