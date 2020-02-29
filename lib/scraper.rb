@@ -18,7 +18,13 @@ class Scraper
 
   doc.css(".post").first 
   
+  end
+
+doc.css(".post").first.css("h
+2")
+
 end
+
 
 end
 
